@@ -9,4 +9,4 @@ edition = "2021"
 actix-web = "4.3.1"
 async-graphql = "5.0.6"
 async-graphql-actix-web = "5.0.6"
-tokio = { version = "1.8", features = ["macros", "rt-multi-thread"] }
+tokio = { version = "1.25.0", features = ["macros", "rt-multi-thread"] }
